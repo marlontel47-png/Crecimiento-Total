@@ -1,6 +1,6 @@
 # Crecimiento Total
 
-es un videojuego creado en Python utilizando la librería Pygame.  
+Es un videojuego creado en Python utilizando la librería Pygame.  
 El objetivo del juego es controlar una esfera que se desplaza por la pantalla evitando chocar con esferas más grandes, mientras devora esferas más pequeñas para aumentar de tamaño.  
 Si el jugador consume suficientes esferas y alcanza el tamaño máximo, gana la partida. Si toca una esfera más grande, pierde.
 
